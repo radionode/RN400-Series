@@ -5,7 +5,7 @@
     <table>
         <tr>
             <th>Model Description</th>
-            <th>Communication Method</th>
+            <th>Spec.</th>
         </tr>
         <tr>
             <td style="white-space: nowrap; padding: 10px; line-height: 1.8;">

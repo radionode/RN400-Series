@@ -18,7 +18,7 @@
                 • CH8 : PM 0.5( #/cm3)
            </td>
             <td style="white-space: nowrap; padding: 10px; line-height: 1.8;">
-                • Particular Matter<br>
+                • Particulate Matter<br>
 		• Organic Volatile Gases<br>
                 • Temperature<br>
             </td>

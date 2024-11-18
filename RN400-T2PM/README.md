@@ -16,7 +16,7 @@
                 • CH6 : Size um <br>
             </td>
             <td style="white-space: nowrap; padding: 10px; line-height: 1.8;">
-                • Particular Matter<br>
+                • Particulate Matter<br>
             </td>
         </tr>
     </table>
