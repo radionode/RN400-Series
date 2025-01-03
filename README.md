@@ -8,7 +8,7 @@
             <th>Spec.</th>
         </tr>
         <tr>
-            <td style="white-space: nowrap; padding: 10px; line-height: 1.8;">
+            <td style="white-space: nowrap; padding: 10px; line-height: 2;">
                 •RN400-H2EX : Temp/RH, PT100, Door Sensor Model<br>
                 •RN400-H2PS : Temp/RH, NTC Sensor Model<br>
                 •RN400-T2CS : 4-20mA/0-20mA Analog in Model<br>
